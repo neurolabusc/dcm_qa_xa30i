@@ -8,7 +8,7 @@ Siemens notes that XA30 systems can export DICOMs in one of two modes:
 
 * Enhanced: preserves the enhanced features of the source images.
 
-This repository contains data saved in Interoperability mode, see [https://github.com/neurolabusc/dcm_qa_xa30](https://github.com/neurolabusc/dcm_qa_xa30) for Enhanced mode data. An identical acquisition will populate different tags depending on whether Interoperability or Enhanced mode is selected. The table below highlights differences from dcm2niix's perspective:
+This repository contains data saved in Interoperability mode, see [dcm_qa_xa30](https://github.com/neurolabusc/dcm_qa_xa30) for Enhanced mode data. An identical acquisition will populate different tags depending on whether Interoperability or Enhanced mode is selected. The table below highlights differences from dcm2niix's perspective:
 
 | BIDS field          | Interoperability         | Enhanced                 |
 | ------------------- | ------------------------ | ------------------------ |
@@ -20,7 +20,7 @@ This repository contains data saved in Interoperability mode, see [https://githu
 
 ## Details
 
-Images were acquired by Hu Cheng, Isaiah Innis, and Daniel Levitas using a Siemens Prisma Fit running XA30 at Indiana University. Additional sequence details are provided in the included PDF-format file.
+Images were acquired by Hu Cheng, Isaiah Innis, and Daniel Levitas using a Siemens Prisma Fit running XA30 at Indiana University. Additional sequence details are provided in the [dcm_qa_xa30](https://github.com/neurolabusc/dcm_qa_xa30) PDF-format file.
 
 * Common Parameters 
   * Manufacturer: Siemens
