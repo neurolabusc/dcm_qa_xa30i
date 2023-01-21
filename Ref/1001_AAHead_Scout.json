@@ -50,7 +50,6 @@
 	"RefLinesPE": 24,
 	"CoilCombinationMethod": "Adaptive Combine",
 	"MatrixCoilMode": "GRAPPA",
-	"MultibandAccelerationFactor": 128,
 	"PercentPhaseFOV": 100,
 	"PercentSampling": 100,
 	"PhaseEncodingSteps": 160,
